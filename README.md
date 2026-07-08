@@ -30,7 +30,7 @@ pip install numpy scipy matplotlib jupyterlab
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/your-username/repo-name.git](https://github.com/your-username/repo-name.git)
+   git clone [https://github.com/jorcreri/FIR-Filter-Design] (https://github.com/jorcreri/FIR-Filter-Design)
    ```
 2. Navigate to the project directory:
    ```bash
